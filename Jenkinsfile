@@ -1,3 +1,5 @@
 #!groovy
 
-echo env.BUILD_NAME
+stage {
+    echo env
+}
