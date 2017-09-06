@@ -1,5 +1,5 @@
 #!groovy
 
-stage 'pierwszy' {
+stage('pierwszy') {
     echo env
 }
